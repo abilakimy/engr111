@@ -1,1 +1,1 @@
-This is a Bridge Design project I did as a college freshman for the ENGR111 (First-Year Engineering Design) course at Drexel University. The goal of this project was to design a bridge using VisualAnalysis software and build it using K'NEX parts.
+This is a Bridge Design project I did as a college freshman for the First-Year Engineering Design (ENGR111) course at Drexel University. The goal of this project was to design a bridge using VisualAnalysis software and build it using K'NEX parts.
